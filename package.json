@@ -38,7 +38,7 @@
     "passport-local": "^1.0.0",
     "passport.socketio": "^3.7.0",
     "postcss-loader": "^3.0.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "push.js": "^1.0.12",
     "reload": "^3.0.4",
     "sass-loader": "^8.0.0",
